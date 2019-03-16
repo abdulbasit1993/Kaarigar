@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140464172270",
+    "firebase_url": "https://mechanic-cf8ee.firebaseio.com",
+    "project_id": "mechanic-cf8ee",
+    "storage_bucket": "mechanic-cf8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140464172270:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140464172270-qqa7h1uca27smocph271nha2qjo4f4fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "6dd02302a5a33facb4d59beb07f913f60069c587"
+          }
+        },
+        {
+          "client_id": "140464172270-lmfog1547qn4va3mqep68j9u638f9j8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkpfZ2Yd2XML-JXRtqbBZubGLeJN91p0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140464172270-lmfog1547qn4va3mqep68j9u638f9j8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
